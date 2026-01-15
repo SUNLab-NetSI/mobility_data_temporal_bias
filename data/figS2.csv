@@ -1,0 +1,1057 @@
+city,key,time,inc_quart,inc_quart_legend_label,atusmd_ratio
+Boston,0,0:00,Q1,Q1 (Low),0
+Boston,1,1:00,Q1,Q1 (Low),0
+Boston,2,2:00,Q1,Q1 (Low),0
+Boston,3,3:00,Q1,Q1 (Low),0
+Boston,4,4:00,Q1,Q1 (Low),0
+Boston,5,5:00,Q1,Q1 (Low),0.042171693
+Boston,6,6:00,Q1,Q1 (Low),1.40231876
+Boston,7,7:00,Q1,Q1 (Low),1.369080772
+Boston,8,8:00,Q1,Q1 (Low),2.045378978
+Boston,9,9:00,Q1,Q1 (Low),1.875015598
+Boston,10,10:00,Q1,Q1 (Low),3.342199061
+Boston,11,11:00,Q1,Q1 (Low),3.623323587
+Boston,12,12:00,Q1,Q1 (Low),2.695633608
+Boston,13,13:00,Q1,Q1 (Low),4.158988994
+Boston,14,14:00,Q1,Q1 (Low),3.15557847
+Boston,15,15:00,Q1,Q1 (Low),2.69513031
+Boston,16,16:00,Q1,Q1 (Low),2.763935449
+Boston,17,17:00,Q1,Q1 (Low),2.052606205
+Boston,18,18:00,Q1,Q1 (Low),1.267636731
+Boston,19,19:00,Q1,Q1 (Low),0.507149661
+Boston,20,20:00,Q1,Q1 (Low),0.743277332
+Boston,21,21:00,Q1,Q1 (Low),0.33203703
+Boston,22,22:00,Q1,Q1 (Low),0.069333016
+Boston,23,23:00,Q1,Q1 (Low),0
+Boston,0,0:00,Q2,Q2,0
+Boston,1,1:00,Q2,Q2,0
+Boston,2,2:00,Q2,Q2,0
+Boston,3,3:00,Q2,Q2,0
+Boston,4,4:00,Q2,Q2,0
+Boston,5,5:00,Q2,Q2,0
+Boston,6,6:00,Q2,Q2,0
+Boston,7,7:00,Q2,Q2,1.843984202
+Boston,8,8:00,Q2,Q2,2.152585992
+Boston,9,9:00,Q2,Q2,4.826530052
+Boston,10,10:00,Q2,Q2,3.546243522
+Boston,11,11:00,Q2,Q2,1.811635294
+Boston,12,12:00,Q2,Q2,3.641007534
+Boston,13,13:00,Q2,Q2,3.111697054
+Boston,14,14:00,Q2,Q2,2.182959195
+Boston,15,15:00,Q2,Q2,1.825263067
+Boston,16,16:00,Q2,Q2,3.393583619
+Boston,17,17:00,Q2,Q2,2.367996505
+Boston,18,18:00,Q2,Q2,3.839836242
+Boston,19,19:00,Q2,Q2,2.875907809
+Boston,20,20:00,Q2,Q2,4.560710103
+Boston,21,21:00,Q2,Q2,0.8739111
+Boston,22,22:00,Q2,Q2,0.691451408
+Boston,23,23:00,Q2,Q2,0
+Boston,0,0:00,Q3,Q3,0
+Boston,1,1:00,Q3,Q3,0
+Boston,2,2:00,Q3,Q3,0
+Boston,3,3:00,Q3,Q3,0
+Boston,4,4:00,Q3,Q3,0
+Boston,5,5:00,Q3,Q3,0
+Boston,6,6:00,Q3,Q3,0
+Boston,7,7:00,Q3,Q3,0.769861049
+Boston,8,8:00,Q3,Q3,1.403376336
+Boston,9,9:00,Q3,Q3,1.834221545
+Boston,10,10:00,Q3,Q3,3.659874127
+Boston,11,11:00,Q3,Q3,3.719564185
+Boston,12,12:00,Q3,Q3,1.745365182
+Boston,13,13:00,Q3,Q3,3.141943574
+Boston,14,14:00,Q3,Q3,1.223559035
+Boston,15,15:00,Q3,Q3,2.012642211
+Boston,16,16:00,Q3,Q3,0.641857787
+Boston,17,17:00,Q3,Q3,1.916753307
+Boston,18,18:00,Q3,Q3,1.172123875
+Boston,19,19:00,Q3,Q3,0.992761688
+Boston,20,20:00,Q3,Q3,1.455117773
+Boston,21,21:00,Q3,Q3,0.072439811
+Boston,22,22:00,Q3,Q3,0
+Boston,23,23:00,Q3,Q3,0.235704256
+Boston,0,0:00,Q4,Q4 (High),0
+Boston,1,1:00,Q4,Q4 (High),0
+Boston,2,2:00,Q4,Q4 (High),0
+Boston,3,3:00,Q4,Q4 (High),0
+Boston,4,4:00,Q4,Q4 (High),0
+Boston,5,5:00,Q4,Q4 (High),0.342051738
+Boston,6,6:00,Q4,Q4 (High),0.216039766
+Boston,7,7:00,Q4,Q4 (High),0.297318166
+Boston,8,8:00,Q4,Q4 (High),1.366797039
+Boston,9,9:00,Q4,Q4 (High),2.50269892
+Boston,10,10:00,Q4,Q4 (High),3.751947044
+Boston,11,11:00,Q4,Q4 (High),4.028318212
+Boston,12,12:00,Q4,Q4 (High),4.432681128
+Boston,13,13:00,Q4,Q4 (High),2.549691254
+Boston,14,14:00,Q4,Q4 (High),1.93803188
+Boston,15,15:00,Q4,Q4 (High),2.708832945
+Boston,16,16:00,Q4,Q4 (High),2.686076696
+Boston,17,17:00,Q4,Q4 (High),1.786512203
+Boston,18,18:00,Q4,Q4 (High),1.962102706
+Boston,19,19:00,Q4,Q4 (High),0.67619948
+Boston,20,20:00,Q4,Q4 (High),0.458609745
+Boston,21,21:00,Q4,Q4 (High),0.359335974
+Boston,22,22:00,Q4,Q4 (High),0
+Boston,23,23:00,Q4,Q4 (High),0
+Chicago,0,0:00,Q1,Q1 (Low),0
+Chicago,1,1:00,Q1,Q1 (Low),0
+Chicago,2,2:00,Q1,Q1 (Low),0
+Chicago,3,3:00,Q1,Q1 (Low),0
+Chicago,4,4:00,Q1,Q1 (Low),0
+Chicago,5,5:00,Q1,Q1 (Low),0.081924502
+Chicago,6,6:00,Q1,Q1 (Low),2.449082603
+Chicago,7,7:00,Q1,Q1 (Low),2.654173917
+Chicago,8,8:00,Q1,Q1 (Low),3.403180637
+Chicago,9,9:00,Q1,Q1 (Low),2.832111031
+Chicago,10,10:00,Q1,Q1 (Low),5.220358767
+Chicago,11,11:00,Q1,Q1 (Low),6.068939168
+Chicago,12,12:00,Q1,Q1 (Low),4.452344212
+Chicago,13,13:00,Q1,Q1 (Low),6.793908924
+Chicago,14,14:00,Q1,Q1 (Low),4.965569228
+Chicago,15,15:00,Q1,Q1 (Low),3.962124013
+Chicago,16,16:00,Q1,Q1 (Low),4.005964241
+Chicago,17,17:00,Q1,Q1 (Low),3.245973903
+Chicago,18,18:00,Q1,Q1 (Low),2.164051101
+Chicago,19,19:00,Q1,Q1 (Low),0.845493524
+Chicago,20,20:00,Q1,Q1 (Low),1.382485754
+Chicago,21,21:00,Q1,Q1 (Low),0.655711137
+Chicago,22,22:00,Q1,Q1 (Low),0.14604428
+Chicago,23,23:00,Q1,Q1 (Low),0
+Chicago,0,0:00,Q2,Q2,0
+Chicago,1,1:00,Q2,Q2,0
+Chicago,2,2:00,Q2,Q2,0
+Chicago,3,3:00,Q2,Q2,0
+Chicago,4,4:00,Q2,Q2,0
+Chicago,5,5:00,Q2,Q2,0
+Chicago,6,6:00,Q2,Q2,0
+Chicago,7,7:00,Q2,Q2,4.051515945
+Chicago,8,8:00,Q2,Q2,4.335134371
+Chicago,9,9:00,Q2,Q2,8.760563098
+Chicago,10,10:00,Q2,Q2,6.37812658
+Chicago,11,11:00,Q2,Q2,2.882451829
+Chicago,12,12:00,Q2,Q2,6.274789567
+Chicago,13,13:00,Q2,Q2,5.472224262
+Chicago,14,14:00,Q2,Q2,3.881951469
+Chicago,15,15:00,Q2,Q2,3.343690465
+Chicago,16,16:00,Q2,Q2,6.733514096
+Chicago,17,17:00,Q2,Q2,4.746843064
+Chicago,18,18:00,Q2,Q2,7.943906456
+Chicago,19,19:00,Q2,Q2,5.526695282
+Chicago,20,20:00,Q2,Q2,9.720605948
+Chicago,21,21:00,Q2,Q2,1.817609699
+Chicago,22,22:00,Q2,Q2,1.613684784
+Chicago,23,23:00,Q2,Q2,0
+Chicago,0,0:00,Q3,Q3,0
+Chicago,1,1:00,Q3,Q3,0
+Chicago,2,2:00,Q3,Q3,0
+Chicago,3,3:00,Q3,Q3,0
+Chicago,4,4:00,Q3,Q3,0
+Chicago,5,5:00,Q3,Q3,0
+Chicago,6,6:00,Q3,Q3,0
+Chicago,7,7:00,Q3,Q3,1.857639725
+Chicago,8,8:00,Q3,Q3,3.259889827
+Chicago,9,9:00,Q3,Q3,3.50746538
+Chicago,10,10:00,Q3,Q3,6.508114611
+Chicago,11,11:00,Q3,Q3,6.194950736
+Chicago,12,12:00,Q3,Q3,3.251391227
+Chicago,13,13:00,Q3,Q3,5.626638643
+Chicago,14,14:00,Q3,Q3,2.04040743
+Chicago,15,15:00,Q3,Q3,3.429802004
+Chicago,16,16:00,Q3,Q3,1.158434746
+Chicago,17,17:00,Q3,Q3,3.81027128
+Chicago,18,18:00,Q3,Q3,2.595109047
+Chicago,19,19:00,Q3,Q3,2.133091548
+Chicago,20,20:00,Q3,Q3,3.313126059
+Chicago,21,21:00,Q3,Q3,0.156123842
+Chicago,22,22:00,Q3,Q3,0
+Chicago,23,23:00,Q3,Q3,0.294196088
+Chicago,0,0:00,Q4,Q4 (High),0
+Chicago,1,1:00,Q4,Q4 (High),0
+Chicago,2,2:00,Q4,Q4 (High),0
+Chicago,3,3:00,Q4,Q4 (High),0
+Chicago,4,4:00,Q4,Q4 (High),0
+Chicago,5,5:00,Q4,Q4 (High),0.489939795
+Chicago,6,6:00,Q4,Q4 (High),0.399938566
+Chicago,7,7:00,Q4,Q4 (High),0.769159166
+Chicago,8,8:00,Q4,Q4 (High),3.437742483
+Chicago,9,9:00,Q4,Q4 (High),4.96902387
+Chicago,10,10:00,Q4,Q4 (High),7.201090483
+Chicago,11,11:00,Q4,Q4 (High),8.356888283
+Chicago,12,12:00,Q4,Q4 (High),9.954764612
+Chicago,13,13:00,Q4,Q4 (High),5.115998073
+Chicago,14,14:00,Q4,Q4 (High),3.701961601
+Chicago,15,15:00,Q4,Q4 (High),5.260299684
+Chicago,16,16:00,Q4,Q4 (High),5.521882173
+Chicago,17,17:00,Q4,Q4 (High),4.492010923
+Chicago,18,18:00,Q4,Q4 (High),5.730778313
+Chicago,19,19:00,Q4,Q4 (High),2.043829426
+Chicago,20,20:00,Q4,Q4 (High),1.493806824
+Chicago,21,21:00,Q4,Q4 (High),1.095423778
+Chicago,22,22:00,Q4,Q4 (High),0
+Chicago,23,23:00,Q4,Q4 (High),0
+Dallas,0,0:00,Q1,Q1 (Low),0
+Dallas,1,1:00,Q1,Q1 (Low),0
+Dallas,2,2:00,Q1,Q1 (Low),0
+Dallas,3,3:00,Q1,Q1 (Low),0
+Dallas,4,4:00,Q1,Q1 (Low),0
+Dallas,5,5:00,Q1,Q1 (Low),0.06056604
+Dallas,6,6:00,Q1,Q1 (Low),1.748170728
+Dallas,7,7:00,Q1,Q1 (Low),1.757989429
+Dallas,8,8:00,Q1,Q1 (Low),2.877659739
+Dallas,9,9:00,Q1,Q1 (Low),2.80176444
+Dallas,10,10:00,Q1,Q1 (Low),5.090020031
+Dallas,11,11:00,Q1,Q1 (Low),5.810491266
+Dallas,12,12:00,Q1,Q1 (Low),3.952574137
+Dallas,13,13:00,Q1,Q1 (Low),6.807907753
+Dallas,14,14:00,Q1,Q1 (Low),4.918861628
+Dallas,15,15:00,Q1,Q1 (Low),4.272325823
+Dallas,16,16:00,Q1,Q1 (Low),4.194938629
+Dallas,17,17:00,Q1,Q1 (Low),3.172988122
+Dallas,18,18:00,Q1,Q1 (Low),2.026463288
+Dallas,19,19:00,Q1,Q1 (Low),0.793552624
+Dallas,20,20:00,Q1,Q1 (Low),1.231335812
+Dallas,21,21:00,Q1,Q1 (Low),0.639752498
+Dallas,22,22:00,Q1,Q1 (Low),0.143535527
+Dallas,23,23:00,Q1,Q1 (Low),0
+Dallas,0,0:00,Q2,Q2,0
+Dallas,1,1:00,Q2,Q2,0
+Dallas,2,2:00,Q2,Q2,0
+Dallas,3,3:00,Q2,Q2,0
+Dallas,4,4:00,Q2,Q2,0
+Dallas,5,5:00,Q2,Q2,0
+Dallas,6,6:00,Q2,Q2,0
+Dallas,7,7:00,Q2,Q2,2.49357725
+Dallas,8,8:00,Q2,Q2,3.342102422
+Dallas,9,9:00,Q2,Q2,7.397793057
+Dallas,10,10:00,Q2,Q2,5.750183948
+Dallas,11,11:00,Q2,Q2,2.804849357
+Dallas,12,12:00,Q2,Q2,5.837224972
+Dallas,13,13:00,Q2,Q2,5.070517153
+Dallas,14,14:00,Q2,Q2,3.752742139
+Dallas,15,15:00,Q2,Q2,3.314517092
+Dallas,16,16:00,Q2,Q2,6.492872668
+Dallas,17,17:00,Q2,Q2,4.302371813
+Dallas,18,18:00,Q2,Q2,6.973224643
+Dallas,19,19:00,Q2,Q2,4.73108164
+Dallas,20,20:00,Q2,Q2,7.963346702
+Dallas,21,21:00,Q2,Q2,1.496667995
+Dallas,22,22:00,Q2,Q2,1.382990099
+Dallas,23,23:00,Q2,Q2,0
+Dallas,0,0:00,Q3,Q3,0
+Dallas,1,1:00,Q3,Q3,0
+Dallas,2,2:00,Q3,Q3,0
+Dallas,3,3:00,Q3,Q3,0
+Dallas,4,4:00,Q3,Q3,0
+Dallas,5,5:00,Q3,Q3,0
+Dallas,6,6:00,Q3,Q3,0
+Dallas,7,7:00,Q3,Q3,1.357825014
+Dallas,8,8:00,Q3,Q3,3.264628354
+Dallas,9,9:00,Q3,Q3,3.945650994
+Dallas,10,10:00,Q3,Q3,7.371802983
+Dallas,11,11:00,Q3,Q3,6.88373857
+Dallas,12,12:00,Q3,Q3,3.514135966
+Dallas,13,13:00,Q3,Q3,6.164704941
+Dallas,14,14:00,Q3,Q3,2.176539206
+Dallas,15,15:00,Q3,Q3,3.81967232
+Dallas,16,16:00,Q3,Q3,1.247768948
+Dallas,17,17:00,Q3,Q3,4.125217278
+Dallas,18,18:00,Q3,Q3,2.764307523
+Dallas,19,19:00,Q3,Q3,2.362928052
+Dallas,20,20:00,Q3,Q3,3.6945355
+Dallas,21,21:00,Q3,Q3,0.206412535
+Dallas,22,22:00,Q3,Q3,0
+Dallas,23,23:00,Q3,Q3,0.499219626
+Dallas,0,0:00,Q4,Q4 (High),0
+Dallas,1,1:00,Q4,Q4 (High),0
+Dallas,2,2:00,Q4,Q4 (High),0
+Dallas,3,3:00,Q4,Q4 (High),0
+Dallas,4,4:00,Q4,Q4 (High),0
+Dallas,5,5:00,Q4,Q4 (High),0.29752475
+Dallas,6,6:00,Q4,Q4 (High),0.241685786
+Dallas,7,7:00,Q4,Q4 (High),0.605412731
+Dallas,8,8:00,Q4,Q4 (High),3.175750929
+Dallas,9,9:00,Q4,Q4 (High),5.698982083
+Dallas,10,10:00,Q4,Q4 (High),8.651922128
+Dallas,11,11:00,Q4,Q4 (High),10.17875125
+Dallas,12,12:00,Q4,Q4 (High),11.93508257
+Dallas,13,13:00,Q4,Q4 (High),6.14518616
+Dallas,14,14:00,Q4,Q4 (High),4.434574249
+Dallas,15,15:00,Q4,Q4 (High),6.227217377
+Dallas,16,16:00,Q4,Q4 (High),5.821207018
+Dallas,17,17:00,Q4,Q4 (High),4.854954193
+Dallas,18,18:00,Q4,Q4 (High),6.322486969
+Dallas,19,19:00,Q4,Q4 (High),2.181286571
+Dallas,20,20:00,Q4,Q4 (High),1.686017607
+Dallas,21,21:00,Q4,Q4 (High),1.407721859
+Dallas,22,22:00,Q4,Q4 (High),0
+Dallas,23,23:00,Q4,Q4 (High),0
+Detroit,0,0:00,Q1,Q1 (Low),0
+Detroit,1,1:00,Q1,Q1 (Low),0
+Detroit,2,2:00,Q1,Q1 (Low),0
+Detroit,3,3:00,Q1,Q1 (Low),0
+Detroit,4,4:00,Q1,Q1 (Low),0
+Detroit,5,5:00,Q1,Q1 (Low),0.118642241
+Detroit,6,6:00,Q1,Q1 (Low),4.417740154
+Detroit,7,7:00,Q1,Q1 (Low),4.265768611
+Detroit,8,8:00,Q1,Q1 (Low),4.652118822
+Detroit,9,9:00,Q1,Q1 (Low),3.861941632
+Detroit,10,10:00,Q1,Q1 (Low),5.967408886
+Detroit,11,11:00,Q1,Q1 (Low),6.447464119
+Detroit,12,12:00,Q1,Q1 (Low),4.712318304
+Detroit,13,13:00,Q1,Q1 (Low),7.586862159
+Detroit,14,14:00,Q1,Q1 (Low),5.493251794
+Detroit,15,15:00,Q1,Q1 (Low),4.499701746
+Detroit,16,16:00,Q1,Q1 (Low),4.444215094
+Detroit,17,17:00,Q1,Q1 (Low),3.19189716
+Detroit,18,18:00,Q1,Q1 (Low),2.019487558
+Detroit,19,19:00,Q1,Q1 (Low),0.834253222
+Detroit,20,20:00,Q1,Q1 (Low),1.290891873
+Detroit,21,21:00,Q1,Q1 (Low),0.593306988
+Detroit,22,22:00,Q1,Q1 (Low),0.133997599
+Detroit,23,23:00,Q1,Q1 (Low),0
+Detroit,0,0:00,Q2,Q2,0
+Detroit,1,1:00,Q2,Q2,0
+Detroit,2,2:00,Q2,Q2,0
+Detroit,3,3:00,Q2,Q2,0
+Detroit,4,4:00,Q2,Q2,0
+Detroit,5,5:00,Q2,Q2,0
+Detroit,6,6:00,Q2,Q2,0
+Detroit,7,7:00,Q2,Q2,5.05198869
+Detroit,8,8:00,Q2,Q2,5.097573116
+Detroit,9,9:00,Q2,Q2,9.403838623
+Detroit,10,10:00,Q2,Q2,6.563381264
+Detroit,11,11:00,Q2,Q2,2.847393102
+Detroit,12,12:00,Q2,Q2,5.946379856
+Detroit,13,13:00,Q2,Q2,5.523722077
+Detroit,14,14:00,Q2,Q2,3.961136721
+Detroit,15,15:00,Q2,Q2,3.385558789
+Detroit,16,16:00,Q2,Q2,6.718103495
+Detroit,17,17:00,Q2,Q2,4.448758654
+Detroit,18,18:00,Q2,Q2,7.066227656
+Detroit,19,19:00,Q2,Q2,4.65782912
+Detroit,20,20:00,Q2,Q2,7.579638484
+Detroit,21,21:00,Q2,Q2,1.433591745
+Detroit,22,22:00,Q2,Q2,1.126214901
+Detroit,23,23:00,Q2,Q2,0
+Detroit,0,0:00,Q3,Q3,0
+Detroit,1,1:00,Q3,Q3,0
+Detroit,2,2:00,Q3,Q3,0
+Detroit,3,3:00,Q3,Q3,0
+Detroit,4,4:00,Q3,Q3,0
+Detroit,5,5:00,Q3,Q3,0
+Detroit,6,6:00,Q3,Q3,0
+Detroit,7,7:00,Q3,Q3,1.81518526
+Detroit,8,8:00,Q3,Q3,4.024234578
+Detroit,9,9:00,Q3,Q3,3.702050281
+Detroit,10,10:00,Q3,Q3,6.643837412
+Detroit,11,11:00,Q3,Q3,6.092359009
+Detroit,12,12:00,Q3,Q3,3.094246056
+Detroit,13,13:00,Q3,Q3,5.692207929
+Detroit,14,14:00,Q3,Q3,2.230040946
+Detroit,15,15:00,Q3,Q3,3.886786634
+Detroit,16,16:00,Q3,Q3,1.21041502
+Detroit,17,17:00,Q3,Q3,4.139915978
+Detroit,18,18:00,Q3,Q3,2.617994317
+Detroit,19,19:00,Q3,Q3,2.028665918
+Detroit,20,20:00,Q3,Q3,2.989221683
+Detroit,21,21:00,Q3,Q3,0.157882291
+Detroit,22,22:00,Q3,Q3,0
+Detroit,23,23:00,Q3,Q3,0.447297857
+Detroit,0,0:00,Q4,Q4 (High),0
+Detroit,1,1:00,Q4,Q4 (High),0
+Detroit,2,2:00,Q4,Q4 (High),0
+Detroit,3,3:00,Q4,Q4 (High),0
+Detroit,4,4:00,Q4,Q4 (High),0
+Detroit,5,5:00,Q4,Q4 (High),0.569312548
+Detroit,6,6:00,Q4,Q4 (High),0.555188747
+Detroit,7,7:00,Q4,Q4 (High),0.763624099
+Detroit,8,8:00,Q4,Q4 (High),3.015929458
+Detroit,9,9:00,Q4,Q4 (High),4.239295325
+Detroit,10,10:00,Q4,Q4 (High),6.422152228
+Detroit,11,11:00,Q4,Q4 (High),7.317032821
+Detroit,12,12:00,Q4,Q4 (High),8.480773159
+Detroit,13,13:00,Q4,Q4 (High),4.643955882
+Detroit,14,14:00,Q4,Q4 (High),3.515458096
+Detroit,15,15:00,Q4,Q4 (High),4.712938821
+Detroit,16,16:00,Q4,Q4 (High),4.258962318
+Detroit,17,17:00,Q4,Q4 (High),3.219456174
+Detroit,18,18:00,Q4,Q4 (High),4.022743643
+Detroit,19,19:00,Q4,Q4 (High),1.439113808
+Detroit,20,20:00,Q4,Q4 (High),0.935672542
+Detroit,21,21:00,Q4,Q4 (High),0.636009753
+Detroit,22,22:00,Q4,Q4 (High),0
+Detroit,23,23:00,Q4,Q4 (High),0
+Los Angeles,0,0:00,Q1,Q1 (Low),0
+Los Angeles,1,1:00,Q1,Q1 (Low),0
+Los Angeles,2,2:00,Q1,Q1 (Low),0
+Los Angeles,3,3:00,Q1,Q1 (Low),0
+Los Angeles,4,4:00,Q1,Q1 (Low),0
+Los Angeles,5,5:00,Q1,Q1 (Low),0.027438089
+Los Angeles,6,6:00,Q1,Q1 (Low),0.929288766
+Los Angeles,7,7:00,Q1,Q1 (Low),1.00125469
+Los Angeles,8,8:00,Q1,Q1 (Low),1.578917234
+Los Angeles,9,9:00,Q1,Q1 (Low),1.783951233
+Los Angeles,10,10:00,Q1,Q1 (Low),3.294398279
+Los Angeles,11,11:00,Q1,Q1 (Low),3.880410693
+Los Angeles,12,12:00,Q1,Q1 (Low),2.825548174
+Los Angeles,13,13:00,Q1,Q1 (Low),4.371588578
+Los Angeles,14,14:00,Q1,Q1 (Low),3.293128418
+Los Angeles,15,15:00,Q1,Q1 (Low),2.805806191
+Los Angeles,16,16:00,Q1,Q1 (Low),2.854025265
+Los Angeles,17,17:00,Q1,Q1 (Low),2.217179187
+Los Angeles,18,18:00,Q1,Q1 (Low),1.345349343
+Los Angeles,19,19:00,Q1,Q1 (Low),0.499756859
+Los Angeles,20,20:00,Q1,Q1 (Low),0.769534245
+Los Angeles,21,21:00,Q1,Q1 (Low),0.345329397
+Los Angeles,22,22:00,Q1,Q1 (Low),0.073978871
+Los Angeles,23,23:00,Q1,Q1 (Low),0
+Los Angeles,0,0:00,Q2,Q2,0
+Los Angeles,1,1:00,Q2,Q2,0
+Los Angeles,2,2:00,Q2,Q2,0
+Los Angeles,3,3:00,Q2,Q2,0
+Los Angeles,4,4:00,Q2,Q2,0
+Los Angeles,5,5:00,Q2,Q2,0
+Los Angeles,6,6:00,Q2,Q2,0
+Los Angeles,7,7:00,Q2,Q2,1.372404994
+Los Angeles,8,8:00,Q2,Q2,2.103639097
+Los Angeles,9,9:00,Q2,Q2,5.248238202
+Los Angeles,10,10:00,Q2,Q2,4.187622307
+Los Angeles,11,11:00,Q2,Q2,1.936258914
+Los Angeles,12,12:00,Q2,Q2,3.951479293
+Los Angeles,13,13:00,Q2,Q2,3.546130231
+Los Angeles,14,14:00,Q2,Q2,2.548735027
+Los Angeles,15,15:00,Q2,Q2,2.225123474
+Los Angeles,16,16:00,Q2,Q2,4.560594986
+Los Angeles,17,17:00,Q2,Q2,3.063964685
+Los Angeles,18,18:00,Q2,Q2,4.853688123
+Los Angeles,19,19:00,Q2,Q2,3.117982238
+Los Angeles,20,20:00,Q2,Q2,5.025587683
+Los Angeles,21,21:00,Q2,Q2,0.92426875
+Los Angeles,22,22:00,Q2,Q2,0.79579608
+Los Angeles,23,23:00,Q2,Q2,0
+Los Angeles,0,0:00,Q3,Q3,0
+Los Angeles,1,1:00,Q3,Q3,0
+Los Angeles,2,2:00,Q3,Q3,0
+Los Angeles,3,3:00,Q3,Q3,0
+Los Angeles,4,4:00,Q3,Q3,0
+Los Angeles,5,5:00,Q3,Q3,0
+Los Angeles,6,6:00,Q3,Q3,0
+Los Angeles,7,7:00,Q3,Q3,0.858475405
+Los Angeles,8,8:00,Q3,Q3,1.981417923
+Los Angeles,9,9:00,Q3,Q3,2.403247299
+Los Angeles,10,10:00,Q3,Q3,4.626995916
+Los Angeles,11,11:00,Q3,Q3,4.68384299
+Los Angeles,12,12:00,Q3,Q3,2.349496226
+Los Angeles,13,13:00,Q3,Q3,3.982295716
+Los Angeles,14,14:00,Q3,Q3,1.492551484
+Los Angeles,15,15:00,Q3,Q3,2.530258129
+Los Angeles,16,16:00,Q3,Q3,0.853784162
+Los Angeles,17,17:00,Q3,Q3,2.617229458
+Los Angeles,18,18:00,Q3,Q3,1.615786583
+Los Angeles,19,19:00,Q3,Q3,1.347711564
+Los Angeles,20,20:00,Q3,Q3,2.016155641
+Los Angeles,21,21:00,Q3,Q3,0.098336383
+Los Angeles,22,22:00,Q3,Q3,0
+Los Angeles,23,23:00,Q3,Q3,0.221239171
+Los Angeles,0,0:00,Q4,Q4 (High),0
+Los Angeles,1,1:00,Q4,Q4 (High),0
+Los Angeles,2,2:00,Q4,Q4 (High),0
+Los Angeles,3,3:00,Q4,Q4 (High),0
+Los Angeles,4,4:00,Q4,Q4 (High),0
+Los Angeles,5,5:00,Q4,Q4 (High),0.137114039
+Los Angeles,6,6:00,Q4,Q4 (High),0.125834692
+Los Angeles,7,7:00,Q4,Q4 (High),0.329237251
+Los Angeles,8,8:00,Q4,Q4 (High),1.609000437
+Los Angeles,9,9:00,Q4,Q4 (High),2.790983259
+Los Angeles,10,10:00,Q4,Q4 (High),4.503266659
+Los Angeles,11,11:00,Q4,Q4 (High),5.207909445
+Los Angeles,12,12:00,Q4,Q4 (High),5.963769253
+Los Angeles,13,13:00,Q4,Q4 (High),3.094963457
+Los Angeles,14,14:00,Q4,Q4 (High),2.32235603
+Los Angeles,15,15:00,Q4,Q4 (High),3.305332159
+Los Angeles,16,16:00,Q4,Q4 (High),3.325735481
+Los Angeles,17,17:00,Q4,Q4 (High),2.717692086
+Los Angeles,18,18:00,Q4,Q4 (High),3.27469383
+Los Angeles,19,19:00,Q4,Q4 (High),1.156114815
+Los Angeles,20,20:00,Q4,Q4 (High),0.785900261
+Los Angeles,21,21:00,Q4,Q4 (High),0.577014638
+Los Angeles,22,22:00,Q4,Q4 (High),0
+Los Angeles,23,23:00,Q4,Q4 (High),0
+Miami,0,0:00,Q1,Q1 (Low),0
+Miami,1,1:00,Q1,Q1 (Low),0
+Miami,2,2:00,Q1,Q1 (Low),0
+Miami,3,3:00,Q1,Q1 (Low),0
+Miami,4,4:00,Q1,Q1 (Low),0
+Miami,5,5:00,Q1,Q1 (Low),0.054933025
+Miami,6,6:00,Q1,Q1 (Low),1.667619196
+Miami,7,7:00,Q1,Q1 (Low),1.538519135
+Miami,8,8:00,Q1,Q1 (Low),2.322393619
+Miami,9,9:00,Q1,Q1 (Low),2.158661693
+Miami,10,10:00,Q1,Q1 (Low),3.909525239
+Miami,11,11:00,Q1,Q1 (Low),4.296830788
+Miami,12,12:00,Q1,Q1 (Low),3.091167301
+Miami,13,13:00,Q1,Q1 (Low),4.942847519
+Miami,14,14:00,Q1,Q1 (Low),3.681481746
+Miami,15,15:00,Q1,Q1 (Low),3.073144849
+Miami,16,16:00,Q1,Q1 (Low),3.09640709
+Miami,17,17:00,Q1,Q1 (Low),2.272889479
+Miami,18,18:00,Q1,Q1 (Low),1.453713999
+Miami,19,19:00,Q1,Q1 (Low),0.558139043
+Miami,20,20:00,Q1,Q1 (Low),0.858049562
+Miami,21,21:00,Q1,Q1 (Low),0.404525608
+Miami,22,22:00,Q1,Q1 (Low),0.086026489
+Miami,23,23:00,Q1,Q1 (Low),0
+Miami,0,0:00,Q2,Q2,0
+Miami,1,1:00,Q2,Q2,0
+Miami,2,2:00,Q2,Q2,0
+Miami,3,3:00,Q2,Q2,0
+Miami,4,4:00,Q2,Q2,0
+Miami,5,5:00,Q2,Q2,0
+Miami,6,6:00,Q2,Q2,0
+Miami,7,7:00,Q2,Q2,2.143540478
+Miami,8,8:00,Q2,Q2,2.870732508
+Miami,9,9:00,Q2,Q2,6.371795467
+Miami,10,10:00,Q2,Q2,4.687535641
+Miami,11,11:00,Q2,Q2,2.057755577
+Miami,12,12:00,Q2,Q2,4.006002834
+Miami,13,13:00,Q2,Q2,3.442261482
+Miami,14,14:00,Q2,Q2,2.549770291
+Miami,15,15:00,Q2,Q2,2.055860407
+Miami,16,16:00,Q2,Q2,4.257196653
+Miami,17,17:00,Q2,Q2,3.017457621
+Miami,18,18:00,Q2,Q2,4.705199159
+Miami,19,19:00,Q2,Q2,3.151292422
+Miami,20,20:00,Q2,Q2,5.160358552
+Miami,21,21:00,Q2,Q2,0.965742585
+Miami,22,22:00,Q2,Q2,0.882431079
+Miami,23,23:00,Q2,Q2,0
+Miami,0,0:00,Q3,Q3,0
+Miami,1,1:00,Q3,Q3,0
+Miami,2,2:00,Q3,Q3,0
+Miami,3,3:00,Q3,Q3,0
+Miami,4,4:00,Q3,Q3,0
+Miami,5,5:00,Q3,Q3,0
+Miami,6,6:00,Q3,Q3,0
+Miami,7,7:00,Q3,Q3,1.178122562
+Miami,8,8:00,Q3,Q3,2.435412306
+Miami,9,9:00,Q3,Q3,2.768752584
+Miami,10,10:00,Q3,Q3,4.943475571
+Miami,11,11:00,Q3,Q3,4.814055848
+Miami,12,12:00,Q3,Q3,2.338460349
+Miami,13,13:00,Q3,Q3,4.075684234
+Miami,14,14:00,Q3,Q3,1.605726657
+Miami,15,15:00,Q3,Q3,2.660831488
+Miami,16,16:00,Q3,Q3,0.861014221
+Miami,17,17:00,Q3,Q3,2.635577664
+Miami,18,18:00,Q3,Q3,1.728217539
+Miami,19,19:00,Q3,Q3,1.475572272
+Miami,20,20:00,Q3,Q3,2.300540361
+Miami,21,21:00,Q3,Q3,0.11685416
+Miami,22,22:00,Q3,Q3,0
+Miami,23,23:00,Q3,Q3,0.350621459
+Miami,0,0:00,Q4,Q4 (High),0
+Miami,1,1:00,Q4,Q4 (High),0
+Miami,2,2:00,Q4,Q4 (High),0
+Miami,3,3:00,Q4,Q4 (High),0
+Miami,4,4:00,Q4,Q4 (High),0
+Miami,5,5:00,Q4,Q4 (High),0.707193116
+Miami,6,6:00,Q4,Q4 (High),0.47731735
+Miami,7,7:00,Q4,Q4 (High),0.560535863
+Miami,8,8:00,Q4,Q4 (High),2.2497879
+Miami,9,9:00,Q4,Q4 (High),3.335782679
+Miami,10,10:00,Q4,Q4 (High),4.990578115
+Miami,11,11:00,Q4,Q4 (High),5.852136206
+Miami,12,12:00,Q4,Q4 (High),6.387596868
+Miami,13,13:00,Q4,Q4 (High),3.294351674
+Miami,14,14:00,Q4,Q4 (High),2.599571878
+Miami,15,15:00,Q4,Q4 (High),3.74250553
+Miami,16,16:00,Q4,Q4 (High),3.317378701
+Miami,17,17:00,Q4,Q4 (High),2.780090634
+Miami,18,18:00,Q4,Q4 (High),3.323657241
+Miami,19,19:00,Q4,Q4 (High),1.172291665
+Miami,20,20:00,Q4,Q4 (High),0.899862075
+Miami,21,21:00,Q4,Q4 (High),0.688481522
+Miami,22,22:00,Q4,Q4 (High),0
+Miami,23,23:00,Q4,Q4 (High),0
+New York,0,0:00,Q1,Q1 (Low),0
+New York,1,1:00,Q1,Q1 (Low),0
+New York,2,2:00,Q1,Q1 (Low),0
+New York,3,3:00,Q1,Q1 (Low),0
+New York,4,4:00,Q1,Q1 (Low),0
+New York,5,5:00,Q1,Q1 (Low),0.04034214
+New York,6,6:00,Q1,Q1 (Low),1.310897953
+New York,7,7:00,Q1,Q1 (Low),1.078276874
+New York,8,8:00,Q1,Q1 (Low),1.434535826
+New York,9,9:00,Q1,Q1 (Low),1.40711838
+New York,10,10:00,Q1,Q1 (Low),2.557851974
+New York,11,11:00,Q1,Q1 (Low),2.893537973
+New York,12,12:00,Q1,Q1 (Low),2.154494786
+New York,13,13:00,Q1,Q1 (Low),3.380133764
+New York,14,14:00,Q1,Q1 (Low),2.491982711
+New York,15,15:00,Q1,Q1 (Low),2.070265963
+New York,16,16:00,Q1,Q1 (Low),2.174247653
+New York,17,17:00,Q1,Q1 (Low),1.707201246
+New York,18,18:00,Q1,Q1 (Low),1.0739675
+New York,19,19:00,Q1,Q1 (Low),0.40486769
+New York,20,20:00,Q1,Q1 (Low),0.62445022
+New York,21,21:00,Q1,Q1 (Low),0.302649235
+New York,22,22:00,Q1,Q1 (Low),0.062010646
+New York,23,23:00,Q1,Q1 (Low),0
+New York,0,0:00,Q2,Q2,0
+New York,1,1:00,Q2,Q2,0
+New York,2,2:00,Q2,Q2,0
+New York,3,3:00,Q2,Q2,0
+New York,4,4:00,Q2,Q2,0
+New York,5,5:00,Q2,Q2,0
+New York,6,6:00,Q2,Q2,0
+New York,7,7:00,Q2,Q2,1.347453056
+New York,8,8:00,Q2,Q2,1.68652848
+New York,9,9:00,Q2,Q2,3.764762978
+New York,10,10:00,Q2,Q2,3.049088652
+New York,11,11:00,Q2,Q2,1.456704984
+New York,12,12:00,Q2,Q2,3.044489014
+New York,13,13:00,Q2,Q2,2.564081721
+New York,14,14:00,Q2,Q2,1.864295333
+New York,15,15:00,Q2,Q2,1.638931481
+New York,16,16:00,Q2,Q2,3.485724493
+New York,17,17:00,Q2,Q2,2.400028931
+New York,18,18:00,Q2,Q2,3.825165197
+New York,19,19:00,Q2,Q2,2.581144376
+New York,20,20:00,Q2,Q2,4.367508129
+New York,21,21:00,Q2,Q2,0.835558169
+New York,22,22:00,Q2,Q2,0.706589876
+New York,23,23:00,Q2,Q2,0
+New York,0,0:00,Q3,Q3,0
+New York,1,1:00,Q3,Q3,0
+New York,2,2:00,Q3,Q3,0
+New York,3,3:00,Q3,Q3,0
+New York,4,4:00,Q3,Q3,0
+New York,5,5:00,Q3,Q3,0
+New York,6,6:00,Q3,Q3,0
+New York,7,7:00,Q3,Q3,0.735043771
+New York,8,8:00,Q3,Q3,1.579625014
+New York,9,9:00,Q3,Q3,1.763769179
+New York,10,10:00,Q3,Q3,3.40750698
+New York,11,11:00,Q3,Q3,3.568521243
+New York,12,12:00,Q3,Q3,1.764181027
+New York,13,13:00,Q3,Q3,2.997861091
+New York,14,14:00,Q3,Q3,1.156513251
+New York,15,15:00,Q3,Q3,2.055787348
+New York,16,16:00,Q3,Q3,0.676793656
+New York,17,17:00,Q3,Q3,2.266164323
+New York,18,18:00,Q3,Q3,1.470988612
+New York,19,19:00,Q3,Q3,1.161674557
+New York,20,20:00,Q3,Q3,1.901954209
+New York,21,21:00,Q3,Q3,0.106832275
+New York,22,22:00,Q3,Q3,0
+New York,23,23:00,Q3,Q3,0.224615449
+New York,0,0:00,Q4,Q4 (High),0
+New York,1,1:00,Q4,Q4 (High),0
+New York,2,2:00,Q4,Q4 (High),0
+New York,3,3:00,Q4,Q4 (High),0
+New York,4,4:00,Q4,Q4 (High),0
+New York,5,5:00,Q4,Q4 (High),0.326973676
+New York,6,6:00,Q4,Q4 (High),0.270097595
+New York,7,7:00,Q4,Q4 (High),0.417567039
+New York,8,8:00,Q4,Q4 (High),1.720451627
+New York,9,9:00,Q4,Q4 (High),2.705137438
+New York,10,10:00,Q4,Q4 (High),3.973297912
+New York,11,11:00,Q4,Q4 (High),4.792829574
+New York,12,12:00,Q4,Q4 (High),5.323820964
+New York,13,13:00,Q4,Q4 (High),2.724153069
+New York,14,14:00,Q4,Q4 (High),1.985871902
+New York,15,15:00,Q4,Q4 (High),2.897498884
+New York,16,16:00,Q4,Q4 (High),2.884818241
+New York,17,17:00,Q4,Q4 (High),2.509144744
+New York,18,18:00,Q4,Q4 (High),3.012234144
+New York,19,19:00,Q4,Q4 (High),1.036826331
+New York,20,20:00,Q4,Q4 (High),0.748200945
+New York,21,21:00,Q4,Q4 (High),0.565281124
+New York,22,22:00,Q4,Q4 (High),0
+New York,23,23:00,Q4,Q4 (High),0
+Philadelphia,0,0:00,Q1,Q1 (Low),0
+Philadelphia,1,1:00,Q1,Q1 (Low),0
+Philadelphia,2,2:00,Q1,Q1 (Low),0
+Philadelphia,3,3:00,Q1,Q1 (Low),0
+Philadelphia,4,4:00,Q1,Q1 (Low),0
+Philadelphia,5,5:00,Q1,Q1 (Low),0.036237947
+Philadelphia,6,6:00,Q1,Q1 (Low),2.832441995
+Philadelphia,7,7:00,Q1,Q1 (Low),3.143029084
+Philadelphia,8,8:00,Q1,Q1 (Low),4.191109603
+Philadelphia,9,9:00,Q1,Q1 (Low),3.517158546
+Philadelphia,10,10:00,Q1,Q1 (Low),5.871741094
+Philadelphia,11,11:00,Q1,Q1 (Low),6.517994144
+Philadelphia,12,12:00,Q1,Q1 (Low),4.541385418
+Philadelphia,13,13:00,Q1,Q1 (Low),7.474249955
+Philadelphia,14,14:00,Q1,Q1 (Low),5.373459261
+Philadelphia,15,15:00,Q1,Q1 (Low),4.330929671
+Philadelphia,16,16:00,Q1,Q1 (Low),4.132136907
+Philadelphia,17,17:00,Q1,Q1 (Low),2.913079201
+Philadelphia,18,18:00,Q1,Q1 (Low),1.842689364
+Philadelphia,19,19:00,Q1,Q1 (Low),0.716466592
+Philadelphia,20,20:00,Q1,Q1 (Low),1.188565812
+Philadelphia,21,21:00,Q1,Q1 (Low),0.540552418
+Philadelphia,22,22:00,Q1,Q1 (Low),0.120938203
+Philadelphia,23,23:00,Q1,Q1 (Low),0
+Philadelphia,0,0:00,Q2,Q2,0
+Philadelphia,1,1:00,Q2,Q2,0
+Philadelphia,2,2:00,Q2,Q2,0
+Philadelphia,3,3:00,Q2,Q2,0
+Philadelphia,4,4:00,Q2,Q2,0
+Philadelphia,5,5:00,Q2,Q2,0
+Philadelphia,6,6:00,Q2,Q2,0
+Philadelphia,7,7:00,Q2,Q2,4.163805021
+Philadelphia,8,8:00,Q2,Q2,4.874057607
+Philadelphia,9,9:00,Q2,Q2,9.082527907
+Philadelphia,10,10:00,Q2,Q2,6.227305662
+Philadelphia,11,11:00,Q2,Q2,2.836570104
+Philadelphia,12,12:00,Q2,Q2,5.587614049
+Philadelphia,13,13:00,Q2,Q2,4.905930535
+Philadelphia,14,14:00,Q2,Q2,3.634285862
+Philadelphia,15,15:00,Q2,Q2,2.901384106
+Philadelphia,16,16:00,Q2,Q2,6.078969208
+Philadelphia,17,17:00,Q2,Q2,4.072658504
+Philadelphia,18,18:00,Q2,Q2,6.45774942
+Philadelphia,19,19:00,Q2,Q2,4.416397253
+Philadelphia,20,20:00,Q2,Q2,7.608604455
+Philadelphia,21,21:00,Q2,Q2,1.631271604
+Philadelphia,22,22:00,Q2,Q2,1.33566912
+Philadelphia,23,23:00,Q2,Q2,0
+Philadelphia,0,0:00,Q3,Q3,0
+Philadelphia,1,1:00,Q3,Q3,0
+Philadelphia,2,2:00,Q3,Q3,0
+Philadelphia,3,3:00,Q3,Q3,0
+Philadelphia,4,4:00,Q3,Q3,0
+Philadelphia,5,5:00,Q3,Q3,0
+Philadelphia,6,6:00,Q3,Q3,0
+Philadelphia,7,7:00,Q3,Q3,1.9976905
+Philadelphia,8,8:00,Q3,Q3,4.346919755
+Philadelphia,9,9:00,Q3,Q3,3.937531549
+Philadelphia,10,10:00,Q3,Q3,6.665233258
+Philadelphia,11,11:00,Q3,Q3,6.225998573
+Philadelphia,12,12:00,Q3,Q3,2.951364121
+Philadelphia,13,13:00,Q3,Q3,5.080611916
+Philadelphia,14,14:00,Q3,Q3,1.977695884
+Philadelphia,15,15:00,Q3,Q3,3.226272737
+Philadelphia,16,16:00,Q3,Q3,1.085162518
+Philadelphia,17,17:00,Q3,Q3,3.148593042
+Philadelphia,18,18:00,Q3,Q3,2.05275684
+Philadelphia,19,19:00,Q3,Q3,1.837326226
+Philadelphia,20,20:00,Q3,Q3,3.378123801
+Philadelphia,21,21:00,Q3,Q3,0.191438568
+Philadelphia,22,22:00,Q3,Q3,0
+Philadelphia,23,23:00,Q3,Q3,0.35022598
+Philadelphia,0,0:00,Q4,Q4 (High),0
+Philadelphia,1,1:00,Q4,Q4 (High),0
+Philadelphia,2,2:00,Q4,Q4 (High),0
+Philadelphia,3,3:00,Q4,Q4 (High),0
+Philadelphia,4,4:00,Q4,Q4 (High),0
+Philadelphia,5,5:00,Q4,Q4 (High),0.211435602
+Philadelphia,6,6:00,Q4,Q4 (High),0.229108379
+Philadelphia,7,7:00,Q4,Q4 (High),0.616659208
+Philadelphia,8,8:00,Q4,Q4 (High),2.788393232
+Philadelphia,9,9:00,Q4,Q4 (High),4.520934308
+Philadelphia,10,10:00,Q4,Q4 (High),6.809292865
+Philadelphia,11,11:00,Q4,Q4 (High),6.972547533
+Philadelphia,12,12:00,Q4,Q4 (High),7.821170034
+Philadelphia,13,13:00,Q4,Q4 (High),3.938693373
+Philadelphia,14,14:00,Q4,Q4 (High),3.045864555
+Philadelphia,15,15:00,Q4,Q4 (High),4.532410061
+Philadelphia,16,16:00,Q4,Q4 (High),4.328886175
+Philadelphia,17,17:00,Q4,Q4 (High),3.457349386
+Philadelphia,18,18:00,Q4,Q4 (High),4.196279333
+Philadelphia,19,19:00,Q4,Q4 (High),1.545842749
+Philadelphia,20,20:00,Q4,Q4 (High),1.018535607
+Philadelphia,21,21:00,Q4,Q4 (High),0.884494724
+Philadelphia,22,22:00,Q4,Q4 (High),0
+Philadelphia,23,23:00,Q4,Q4 (High),0
+San Francisco,0,0:00,Q1,Q1 (Low),0
+San Francisco,1,1:00,Q1,Q1 (Low),0
+San Francisco,2,2:00,Q1,Q1 (Low),0
+San Francisco,3,3:00,Q1,Q1 (Low),0
+San Francisco,4,4:00,Q1,Q1 (Low),0
+San Francisco,5,5:00,Q1,Q1 (Low),0.023120924
+San Francisco,6,6:00,Q1,Q1 (Low),1.315294358
+San Francisco,7,7:00,Q1,Q1 (Low),1.89726426
+San Francisco,8,8:00,Q1,Q1 (Low),2.67103681
+San Francisco,9,9:00,Q1,Q1 (Low),2.544798564
+San Francisco,10,10:00,Q1,Q1 (Low),4.332217563
+San Francisco,11,11:00,Q1,Q1 (Low),4.67669027
+San Francisco,12,12:00,Q1,Q1 (Low),2.923867692
+San Francisco,13,13:00,Q1,Q1 (Low),5.049086969
+San Francisco,14,14:00,Q1,Q1 (Low),3.661814562
+San Francisco,15,15:00,Q1,Q1 (Low),2.890574129
+San Francisco,16,16:00,Q1,Q1 (Low),2.669714493
+San Francisco,17,17:00,Q1,Q1 (Low),1.749706842
+San Francisco,18,18:00,Q1,Q1 (Low),1.086294687
+San Francisco,19,19:00,Q1,Q1 (Low),0.403710284
+San Francisco,20,20:00,Q1,Q1 (Low),0.629635479
+San Francisco,21,21:00,Q1,Q1 (Low),0.297375594
+San Francisco,22,22:00,Q1,Q1 (Low),0.074441591
+San Francisco,23,23:00,Q1,Q1 (Low),0
+San Francisco,0,0:00,Q2,Q2,0
+San Francisco,1,1:00,Q2,Q2,0
+San Francisco,2,2:00,Q2,Q2,0
+San Francisco,3,3:00,Q2,Q2,0
+San Francisco,4,4:00,Q2,Q2,0
+San Francisco,5,5:00,Q2,Q2,0
+San Francisco,6,6:00,Q2,Q2,0
+San Francisco,7,7:00,Q2,Q2,3.031358376
+San Francisco,8,8:00,Q2,Q2,3.14416281
+San Francisco,9,9:00,Q2,Q2,6.563521578
+San Francisco,10,10:00,Q2,Q2,5.166488319
+San Francisco,11,11:00,Q2,Q2,2.086754865
+San Francisco,12,12:00,Q2,Q2,3.8312678
+San Francisco,13,13:00,Q2,Q2,3.25032622
+San Francisco,14,14:00,Q2,Q2,2.308784647
+San Francisco,15,15:00,Q2,Q2,1.909656574
+San Francisco,16,16:00,Q2,Q2,3.745846738
+San Francisco,17,17:00,Q2,Q2,2.389363809
+San Francisco,18,18:00,Q2,Q2,3.768406059
+San Francisco,19,19:00,Q2,Q2,2.636856518
+San Francisco,20,20:00,Q2,Q2,4.324693409
+San Francisco,21,21:00,Q2,Q2,0.796293124
+San Francisco,22,22:00,Q2,Q2,0.699285229
+San Francisco,23,23:00,Q2,Q2,0
+San Francisco,0,0:00,Q3,Q3,0
+San Francisco,1,1:00,Q3,Q3,0
+San Francisco,2,2:00,Q3,Q3,0
+San Francisco,3,3:00,Q3,Q3,0
+San Francisco,4,4:00,Q3,Q3,0
+San Francisco,5,5:00,Q3,Q3,0
+San Francisco,6,6:00,Q3,Q3,0
+San Francisco,7,7:00,Q3,Q3,1.286235116
+San Francisco,8,8:00,Q3,Q3,2.243340292
+San Francisco,9,9:00,Q3,Q3,2.728871767
+San Francisco,10,10:00,Q3,Q3,5.011817683
+San Francisco,11,11:00,Q3,Q3,4.45853696
+San Francisco,12,12:00,Q3,Q3,2.005816142
+San Francisco,13,13:00,Q3,Q3,3.580521882
+San Francisco,14,14:00,Q3,Q3,1.284944929
+San Francisco,15,15:00,Q3,Q3,2.021553856
+San Francisco,16,16:00,Q3,Q3,0.63409585
+San Francisco,17,17:00,Q3,Q3,1.889719942
+San Francisco,18,18:00,Q3,Q3,1.243535229
+San Francisco,19,19:00,Q3,Q3,1.134844189
+San Francisco,20,20:00,Q3,Q3,1.734883186
+San Francisco,21,21:00,Q3,Q3,0.077037154
+San Francisco,22,22:00,Q3,Q3,0
+San Francisco,23,23:00,Q3,Q3,0.160646679
+San Francisco,0,0:00,Q4,Q4 (High),0
+San Francisco,1,1:00,Q4,Q4 (High),0
+San Francisco,2,2:00,Q4,Q4 (High),0
+San Francisco,3,3:00,Q4,Q4 (High),0
+San Francisco,4,4:00,Q4,Q4 (High),0
+San Francisco,5,5:00,Q4,Q4 (High),0.148097137
+San Francisco,6,6:00,Q4,Q4 (High),0.18325318
+San Francisco,7,7:00,Q4,Q4 (High),0.477973105
+San Francisco,8,8:00,Q4,Q4 (High),2.353789149
+San Francisco,9,9:00,Q4,Q4 (High),3.733795405
+San Francisco,10,10:00,Q4,Q4 (High),5.76822721
+San Francisco,11,11:00,Q4,Q4 (High),6.019018075
+San Francisco,12,12:00,Q4,Q4 (High),6.611322413
+San Francisco,13,13:00,Q4,Q4 (High),3.494391149
+San Francisco,14,14:00,Q4,Q4 (High),2.425095787
+San Francisco,15,15:00,Q4,Q4 (High),3.2088693
+San Francisco,16,16:00,Q4,Q4 (High),2.944513648
+San Francisco,17,17:00,Q4,Q4 (High),2.119936992
+San Francisco,18,18:00,Q4,Q4 (High),2.586613705
+San Francisco,19,19:00,Q4,Q4 (High),0.897936197
+San Francisco,20,20:00,Q4,Q4 (High),0.604893825
+San Francisco,21,21:00,Q4,Q4 (High),0.427923438
+San Francisco,22,22:00,Q4,Q4 (High),0
+San Francisco,23,23:00,Q4,Q4 (High),0
+Seattle,0,0:00,Q1,Q1 (Low),0
+Seattle,1,1:00,Q1,Q1 (Low),0
+Seattle,2,2:00,Q1,Q1 (Low),0
+Seattle,3,3:00,Q1,Q1 (Low),0
+Seattle,4,4:00,Q1,Q1 (Low),0
+Seattle,5,5:00,Q1,Q1 (Low),0.01426276
+Seattle,6,6:00,Q1,Q1 (Low),1.159624731
+Seattle,7,7:00,Q1,Q1 (Low),2.168687813
+Seattle,8,8:00,Q1,Q1 (Low),5.075774985
+Seattle,9,9:00,Q1,Q1 (Low),4.730278126
+Seattle,10,10:00,Q1,Q1 (Low),7.711678055
+Seattle,11,11:00,Q1,Q1 (Low),7.196531177
+Seattle,12,12:00,Q1,Q1 (Low),4.659507333
+Seattle,13,13:00,Q1,Q1 (Low),7.842806219
+Seattle,14,14:00,Q1,Q1 (Low),5.423122702
+Seattle,15,15:00,Q1,Q1 (Low),4.148484014
+Seattle,16,16:00,Q1,Q1 (Low),3.682473288
+Seattle,17,17:00,Q1,Q1 (Low),2.578416928
+Seattle,18,18:00,Q1,Q1 (Low),1.667736318
+Seattle,19,19:00,Q1,Q1 (Low),0.647684765
+Seattle,20,20:00,Q1,Q1 (Low),1.062222935
+Seattle,21,21:00,Q1,Q1 (Low),0.445522393
+Seattle,22,22:00,Q1,Q1 (Low),0.076130851
+Seattle,23,23:00,Q1,Q1 (Low),0
+Seattle,0,0:00,Q2,Q2,0
+Seattle,1,1:00,Q2,Q2,0
+Seattle,2,2:00,Q2,Q2,0
+Seattle,3,3:00,Q2,Q2,0
+Seattle,4,4:00,Q2,Q2,0
+Seattle,5,5:00,Q2,Q2,0
+Seattle,6,6:00,Q2,Q2,0
+Seattle,7,7:00,Q2,Q2,2.79731392
+Seattle,8,8:00,Q2,Q2,3.911451249
+Seattle,9,9:00,Q2,Q2,8.237597893
+Seattle,10,10:00,Q2,Q2,5.543741009
+Seattle,11,11:00,Q2,Q2,2.627059474
+Seattle,12,12:00,Q2,Q2,4.9697243
+Seattle,13,13:00,Q2,Q2,4.355528712
+Seattle,14,14:00,Q2,Q2,3.084168058
+Seattle,15,15:00,Q2,Q2,2.534699431
+Seattle,16,16:00,Q2,Q2,4.585721469
+Seattle,17,17:00,Q2,Q2,2.995036006
+Seattle,18,18:00,Q2,Q2,5.064651254
+Seattle,19,19:00,Q2,Q2,3.828701496
+Seattle,20,20:00,Q2,Q2,6.728146672
+Seattle,21,21:00,Q2,Q2,1.281646702
+Seattle,22,22:00,Q2,Q2,1.226754759
+Seattle,23,23:00,Q2,Q2,0
+Seattle,0,0:00,Q3,Q3,0
+Seattle,1,1:00,Q3,Q3,0
+Seattle,2,2:00,Q3,Q3,0
+Seattle,3,3:00,Q3,Q3,0
+Seattle,4,4:00,Q3,Q3,0
+Seattle,5,5:00,Q3,Q3,0
+Seattle,6,6:00,Q3,Q3,0
+Seattle,7,7:00,Q3,Q3,1.704632027
+Seattle,8,8:00,Q3,Q3,3.084456661
+Seattle,9,9:00,Q3,Q3,3.018548464
+Seattle,10,10:00,Q3,Q3,5.51876071
+Seattle,11,11:00,Q3,Q3,5.224603458
+Seattle,12,12:00,Q3,Q3,2.741619617
+Seattle,13,13:00,Q3,Q3,4.444088152
+Seattle,14,14:00,Q3,Q3,1.494855844
+Seattle,15,15:00,Q3,Q3,2.551319189
+Seattle,16,16:00,Q3,Q3,0.758595288
+Seattle,17,17:00,Q3,Q3,2.423534798
+Seattle,18,18:00,Q3,Q3,1.649152843
+Seattle,19,19:00,Q3,Q3,1.505086669
+Seattle,20,20:00,Q3,Q3,2.303814988
+Seattle,21,21:00,Q3,Q3,0.108046846
+Seattle,22,22:00,Q3,Q3,0
+Seattle,23,23:00,Q3,Q3,0.198854009
+Seattle,0,0:00,Q4,Q4 (High),0
+Seattle,1,1:00,Q4,Q4 (High),0
+Seattle,2,2:00,Q4,Q4 (High),0
+Seattle,3,3:00,Q4,Q4 (High),0
+Seattle,4,4:00,Q4,Q4 (High),0
+Seattle,5,5:00,Q4,Q4 (High),0.449338491
+Seattle,6,6:00,Q4,Q4 (High),0.370493453
+Seattle,7,7:00,Q4,Q4 (High),0.834475062
+Seattle,8,8:00,Q4,Q4 (High),2.944152334
+Seattle,9,9:00,Q4,Q4 (High),4.116211106
+Seattle,10,10:00,Q4,Q4 (High),5.967861404
+Seattle,11,11:00,Q4,Q4 (High),6.388335204
+Seattle,12,12:00,Q4,Q4 (High),7.079837253
+Seattle,13,13:00,Q4,Q4 (High),3.5450996
+Seattle,14,14:00,Q4,Q4 (High),2.642842871
+Seattle,15,15:00,Q4,Q4 (High),3.20917456
+Seattle,16,16:00,Q4,Q4 (High),3.001238218
+Seattle,17,17:00,Q4,Q4 (High),2.198746348
+Seattle,18,18:00,Q4,Q4 (High),3.038242727
+Seattle,19,19:00,Q4,Q4 (High),1.25209077
+Seattle,20,20:00,Q4,Q4 (High),0.881511992
+Seattle,21,21:00,Q4,Q4 (High),0.648924427
+Seattle,22,22:00,Q4,Q4 (High),0
+Seattle,23,23:00,Q4,Q4 (High),0
+Washington,0,0:00,Q1,Q1 (Low),0
+Washington,1,1:00,Q1,Q1 (Low),0
+Washington,2,2:00,Q1,Q1 (Low),0
+Washington,3,3:00,Q1,Q1 (Low),0
+Washington,4,4:00,Q1,Q1 (Low),0
+Washington,5,5:00,Q1,Q1 (Low),0.018729898
+Washington,6,6:00,Q1,Q1 (Low),1.225780147
+Washington,7,7:00,Q1,Q1 (Low),1.854323119
+Washington,8,8:00,Q1,Q1 (Low),3.142005919
+Washington,9,9:00,Q1,Q1 (Low),2.841749717
+Washington,10,10:00,Q1,Q1 (Low),5.006682707
+Washington,11,11:00,Q1,Q1 (Low),5.598658011
+Washington,12,12:00,Q1,Q1 (Low),3.719746862
+Washington,13,13:00,Q1,Q1 (Low),5.753325926
+Washington,14,14:00,Q1,Q1 (Low),4.12233022
+Washington,15,15:00,Q1,Q1 (Low),3.299697747
+Washington,16,16:00,Q1,Q1 (Low),3.074710141
+Washington,17,17:00,Q1,Q1 (Low),2.144373995
+Washington,18,18:00,Q1,Q1 (Low),1.345634412
+Washington,19,19:00,Q1,Q1 (Low),0.516044151
+Washington,20,20:00,Q1,Q1 (Low),0.738572156
+Washington,21,21:00,Q1,Q1 (Low),0.318660629
+Washington,22,22:00,Q1,Q1 (Low),0.057964615
+Washington,23,23:00,Q1,Q1 (Low),0
+Washington,0,0:00,Q2,Q2,0
+Washington,1,1:00,Q2,Q2,0
+Washington,2,2:00,Q2,Q2,0
+Washington,3,3:00,Q2,Q2,0
+Washington,4,4:00,Q2,Q2,0
+Washington,5,5:00,Q2,Q2,0
+Washington,6,6:00,Q2,Q2,0
+Washington,7,7:00,Q2,Q2,2.211393341
+Washington,8,8:00,Q2,Q2,3.431945708
+Washington,9,9:00,Q2,Q2,8.147537238
+Washington,10,10:00,Q2,Q2,6.160667239
+Washington,11,11:00,Q2,Q2,2.633116318
+Washington,12,12:00,Q2,Q2,5.096509489
+Washington,13,13:00,Q2,Q2,4.287300121
+Washington,14,14:00,Q2,Q2,3.150712872
+Washington,15,15:00,Q2,Q2,2.593507499
+Washington,16,16:00,Q2,Q2,4.799393195
+Washington,17,17:00,Q2,Q2,2.934135867
+Washington,18,18:00,Q2,Q2,4.362236689
+Washington,19,19:00,Q2,Q2,2.827673213
+Washington,20,20:00,Q2,Q2,4.962686497
+Washington,21,21:00,Q2,Q2,0.865341911
+Washington,22,22:00,Q2,Q2,0.608879609
+Washington,23,23:00,Q2,Q2,0
+Washington,0,0:00,Q3,Q3,0
+Washington,1,1:00,Q3,Q3,0
+Washington,2,2:00,Q3,Q3,0
+Washington,3,3:00,Q3,Q3,0
+Washington,4,4:00,Q3,Q3,0
+Washington,5,5:00,Q3,Q3,0
+Washington,6,6:00,Q3,Q3,0
+Washington,7,7:00,Q3,Q3,1.169058653
+Washington,8,8:00,Q3,Q3,2.856482413
+Washington,9,9:00,Q3,Q3,3.314625846
+Washington,10,10:00,Q3,Q3,6.499976202
+Washington,11,11:00,Q3,Q3,5.600595095
+Washington,12,12:00,Q3,Q3,2.582811921
+Washington,13,13:00,Q3,Q3,4.598512053
+Washington,14,14:00,Q3,Q3,1.729782209
+Washington,15,15:00,Q3,Q3,2.68026945
+Washington,16,16:00,Q3,Q3,0.809803717
+Washington,17,17:00,Q3,Q3,2.38490586
+Washington,18,18:00,Q3,Q3,1.492331031
+Washington,19,19:00,Q3,Q3,1.20677969
+Washington,20,20:00,Q3,Q3,1.78175152
+Washington,21,21:00,Q3,Q3,0.089287304
+Washington,22,22:00,Q3,Q3,0
+Washington,23,23:00,Q3,Q3,0.177772574
+Washington,0,0:00,Q4,Q4 (High),0
+Washington,1,1:00,Q4,Q4 (High),0
+Washington,2,2:00,Q4,Q4 (High),0
+Washington,3,3:00,Q4,Q4 (High),0
+Washington,4,4:00,Q4,Q4 (High),0
+Washington,5,5:00,Q4,Q4 (High),0.172234092
+Washington,6,6:00,Q4,Q4 (High),0.278394789
+Washington,7,7:00,Q4,Q4 (High),0.629227825
+Washington,8,8:00,Q4,Q4 (High),2.380406325
+Washington,9,9:00,Q4,Q4 (High),4.037815693
+Washington,10,10:00,Q4,Q4 (High),6.269414295
+Washington,11,11:00,Q4,Q4 (High),7.325619558
+Washington,12,12:00,Q4,Q4 (High),7.413197556
+Washington,13,13:00,Q4,Q4 (High),3.803587787
+Washington,14,14:00,Q4,Q4 (High),2.714800382
+Washington,15,15:00,Q4,Q4 (High),3.739940072
+Washington,16,16:00,Q4,Q4 (High),3.573487463
+Washington,17,17:00,Q4,Q4 (High),2.829642674
+Washington,18,18:00,Q4,Q4 (High),3.298883087
+Washington,19,19:00,Q4,Q4 (High),1.12988787
+Washington,20,20:00,Q4,Q4 (High),0.792770786
+Washington,21,21:00,Q4,Q4 (High),0.617509663
+Washington,22,22:00,Q4,Q4 (High),0
+Washington,23,23:00,Q4,Q4 (High),0

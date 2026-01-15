@@ -1,0 +1,17 @@
+inc_quart_label,bar_label,bar,seg_orig,seg_wt
+Q1 (Low),A orig min,37,0.14,0.21
+Q2,A orig min,16,0.14,0.21
+Q3,A orig min,28,0.14,0.21
+Q4 (High),A orig min,29,0.14,0.21
+Q1 (Low),A wt min,23,0.14,0.21
+Q2,A wt min,9,0.14,0.21
+Q3,A wt min,24,0.14,0.21
+Q4 (High),A wt min,36,0.14,0.21
+Q1 (Low),B orig min,26,0.55,0.73
+Q2,B orig min,122,0.55,0.73
+Q3,B orig min,31,0.55,0.73
+Q4 (High),B orig min,347,0.55,0.73
+Q1 (Low),B wt min,16,0.55,0.73
+Q2,B wt min,67,0.55,0.73
+Q3,B wt min,27,0.55,0.73
+Q4 (High),B wt min,434,0.55,0.73

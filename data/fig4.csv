@@ -1,0 +1,67 @@
+city,poi_type,seg_label,seg,std_error_x2,p,sig_label_fc,sig_label_grocery,sig_label_gym
+Boston,Food & Coffee,Original,0.394823324,0.017749192,0.148,,NA,NA
+Boston,Food & Coffee,Re-weighted,0.391537263,0.017419873,NA,NA,NA,NA
+Chicago,Food & Coffee,Original,0.356295278,0.006028095,0.265,,NA,NA
+Chicago,Food & Coffee,Re-weighted,0.357450201,0.005674049,NA,NA,NA,NA
+Dallas,Food & Coffee,Original,0.358036002,0.006183137,0.0153, * ,NA,NA
+Dallas,Food & Coffee,Re-weighted,0.355750054,0.005921638,NA,NA,NA,NA
+Detroit,Food & Coffee,Original,0.377598222,0.01103889,5.93E-06,***,NA,NA
+Detroit,Food & Coffee,Re-weighted,0.371733023,0.010669122,NA,NA,NA,NA
+Los Angeles,Food & Coffee,Original,0.362644931,0.005219222,0.0161, * ,NA,NA
+Los Angeles,Food & Coffee,Re-weighted,0.360556325,0.005024944,NA,NA,NA,NA
+Miami,Food & Coffee,Original,0.339413589,0.006579744,0.482,,NA,NA
+Miami,Food & Coffee,Re-weighted,0.338760593,0.006410798,NA,NA,NA,NA
+New York,Food & Coffee,Original,0.378101384,0.006480239,0.0631,,NA,NA
+New York,Food & Coffee,Re-weighted,0.376152386,0.006219166,NA,NA,NA,NA
+Philadelphia,Food & Coffee,Original,0.334950674,0.010971024,7.98E-05,***,NA,NA
+Philadelphia,Food & Coffee,Re-weighted,0.328478091,0.0104732,NA,NA,NA,NA
+San Francisco,Food & Coffee,Original,0.326531734,0.009988863,5.74E-05,***,NA,NA
+San Francisco,Food & Coffee,Re-weighted,0.318493291,0.009822702,NA,NA,NA,NA
+Seattle,Food & Coffee,Original,0.321632886,0.011944579,0.501,,NA,NA
+Seattle,Food & Coffee,Re-weighted,0.320466669,0.011831388,NA,NA,NA,NA
+Washington,Food & Coffee,Original,0.301320406,0.006985931,1,,NA,NA
+Washington,Food & Coffee,Re-weighted,0.301321293,0.006554492,NA,NA,NA,NA
+Boston,Grocery,Original,0.418820552,0.043225592,0.0214,NA, * ,NA
+Boston,Grocery,Re-weighted,0.433063853,0.043247625,NA,NA,NA,NA
+Chicago,Grocery,Original,0.416725898,0.020874597,0.00627,NA,**,NA
+Chicago,Grocery,Re-weighted,0.42664196,0.020056164,NA,NA,NA,NA
+Dallas,Grocery,Original,0.466344289,0.022831073,0.572,NA,,NA
+Dallas,Grocery,Re-weighted,0.468718359,0.022009507,NA,NA,NA,NA
+Detroit,Grocery,Original,0.429523383,0.036458725,0.0134,NA, * ,NA
+Detroit,Grocery,Re-weighted,0.44105161,0.036202732,NA,NA,NA,NA
+Los Angeles,Grocery,Original,0.425447186,0.01602913,0.0104,NA, * ,NA
+Los Angeles,Grocery,Re-weighted,0.431982122,0.015365073,NA,NA,NA,NA
+Miami,Grocery,Original,0.409304137,0.017863602,0.00271,NA,**,NA
+Miami,Grocery,Re-weighted,0.417924147,0.016963633,NA,NA,NA,NA
+New York,Grocery,Original,0.456660493,0.018850976,0.199,NA,,NA
+New York,Grocery,Re-weighted,0.460912061,0.017956722,NA,NA,NA,NA
+Philadelphia,Grocery,Original,0.350723446,0.027452741,0.0675,NA,,NA
+Philadelphia,Grocery,Re-weighted,0.359311686,0.02735699,NA,NA,NA,NA
+San Francisco,Grocery,Original,0.326705115,0.02208037,0.191,NA,,NA
+San Francisco,Grocery,Re-weighted,0.333930357,0.020680447,NA,NA,NA,NA
+Seattle,Grocery,Original,0.297360833,0.024988486,0.0491,NA, * ,NA
+Seattle,Grocery,Re-weighted,0.309145516,0.025572479,NA,NA,NA,NA
+Washington,Grocery,Original,0.348246749,0.022883567,0.159,NA,,NA
+Washington,Grocery,Re-weighted,0.355050008,0.02239839,NA,NA,NA,NA
+Boston,Gym,Original,0.426072339,0.041653439,0.134,NA,NA,
+Boston,Gym,Re-weighted,0.440965606,0.039805568,NA,NA,NA,NA
+Chicago,Gym,Original,0.381541061,0.01872205,0.000724,NA,NA,***
+Chicago,Gym,Re-weighted,0.397973913,0.017888087,NA,NA,NA,NA
+Dallas,Gym,Original,0.394727047,0.021982282,8.04E-05,NA,NA,***
+Dallas,Gym,Re-weighted,0.419075341,0.021554964,NA,NA,NA,NA
+Detroit,Gym,Original,0.396301606,0.031721017,0.0119,NA,NA, * 
+Detroit,Gym,Re-weighted,0.417536629,0.030246832,NA,NA,NA,NA
+Los Angeles,Gym,Original,0.379459837,0.020700649,5.14E-07,NA,NA,***
+Los Angeles,Gym,Re-weighted,0.405224853,0.019515659,NA,NA,NA,NA
+Miami,Gym,Original,0.406265203,0.022341536,2.69E-05,NA,NA,***
+Miami,Gym,Re-weighted,0.428757901,0.021936719,NA,NA,NA,NA
+New York,Gym,Original,0.428056451,0.016575004,2.76E-06,NA,NA,***
+New York,Gym,Re-weighted,0.446996324,0.016520693,NA,NA,NA,NA
+Philadelphia,Gym,Original,0.414221813,0.032496811,0.0381,NA,NA, * 
+Philadelphia,Gym,Re-weighted,0.433323953,0.031484863,NA,NA,NA,NA
+San Francisco,Gym,Original,0.345548613,0.036639514,0.0123,NA,NA, * 
+San Francisco,Gym,Re-weighted,0.371020544,0.033153541,NA,NA,NA,NA
+Seattle,Gym,Original,0.362403639,0.037869152,0.622,NA,NA,
+Seattle,Gym,Re-weighted,0.368186487,0.036407036,NA,NA,NA,NA
+Washington,Gym,Original,0.342537603,0.02639991,0.00234,NA,NA,**
+Washington,Gym,Re-weighted,0.367495911,0.024718949,NA,NA,NA,NA

@@ -1,0 +1,166 @@
+poi_type,city,term,estimate,std.error,std.error.x2,p.value,sig_levels,significance
+Food & Coffee,Boston,Segregation,-0.161458562,0.043999323,0.087998646,0.000264738,***,Significant
+Food & Coffee,Boston,# POIs per CBG,0.046734576,0.03635734,0.072714679,0.199143607,,Not Significant
+Food & Coffee,Boston,# Unique visitors,-0.070295507,0.042673438,0.085346876,0.100025645,,Not Significant
+Food & Coffee,Boston,Fraction of Q1 visitors,-0.237387995,0.041906156,0.083812312,2.2928361168619e-08,***,Significant
+Food & Coffee,Boston,Fraction of Q4 visitors,0.331782625,0.039924199,0.079848399,6.46389067194383e-16,***,Significant
+Food & Coffee,Chicago,Segregation,-0.166453231,0.014697227,0.029394454,2.73655613415199e-29,***,Significant
+Food & Coffee,Chicago,# POIs per CBG,0.026688819,0.013078854,0.026157707,0.041355491,*,Significant
+Food & Coffee,Chicago,# Unique visitors,-0.009663123,0.013378137,0.026756275,0.470148094,,Not Significant
+Food & Coffee,Chicago,Fraction of Q1 visitors,-0.413979102,0.016410433,0.032820865,2.09178659113729e-130,***,Significant
+Food & Coffee,Chicago,Fraction of Q4 visitors,0.171357796,0.01590854,0.03181708,1.09015485985915e-26,***,Significant
+Food & Coffee,Dallas,Segregation,-0.139971681,0.014108779,0.028217558,6.26830592629792e-23,***,Significant
+Food & Coffee,Dallas,# POIs per CBG,0.001693294,0.012740548,0.025481096,0.894274581,,Not Significant
+Food & Coffee,Dallas,# Unique visitors,-0.017078762,0.013110506,0.026221012,0.192761206,,Not Significant
+Food & Coffee,Dallas,Fraction of Q1 visitors,-0.353039687,0.01660107,0.03320214,4.40687344097396e-95,***,Significant
+Food & Coffee,Dallas,Fraction of Q4 visitors,0.295080883,0.015882362,0.031764724,6.38069402380305e-74,***,Significant
+Food & Coffee,Detroit,Segregation,-0.16290828,0.02637074,0.052741481,8.59950672333863e-10,***,Significant
+Food & Coffee,Detroit,# POIs per CBG,-0.050924615,0.023783286,0.047566573,0.032437198,*,Significant
+Food & Coffee,Detroit,# Unique visitors,-0.006857661,0.024365816,0.048731632,0.778411505,,Not Significant
+Food & Coffee,Detroit,Fraction of Q1 visitors,-0.530945015,0.030144063,0.060288125,1.1591974271313e-62,***,Significant
+Food & Coffee,Detroit,Fraction of Q4 visitors,-0.059862965,0.02897186,0.057943719,0.038995851,*,Significant
+Food & Coffee,Los Angeles,Segregation,-0.201443181,0.011892602,0.023785205,8.31072795493094e-63,***,Significant
+Food & Coffee,Los Angeles,# POIs per CBG,0.006692547,0.010774088,0.021548175,0.534512568,,Not Significant
+Food & Coffee,Los Angeles,# Unique visitors,-0.068909949,0.011215338,0.022430675,8.58610614391223e-10,***,Significant
+Food & Coffee,Los Angeles,Fraction of Q1 visitors,-0.465870196,0.014321991,0.028643982,8.53196268260667e-213,***,Significant
+Food & Coffee,Los Angeles,Fraction of Q4 visitors,0.127183943,0.013896459,0.027792917,7.65345242295317e-20,***,Significant
+Food & Coffee,Miami,Segregation,-0.159110806,0.016811327,0.033622654,5.41236013353569e-21,***,Significant
+Food & Coffee,Miami,# POIs per CBG,0.004169153,0.015132767,0.030265533,0.782945418,,Not Significant
+Food & Coffee,Miami,# Unique visitors,-0.017971305,0.016046111,0.032092223,0.262803825,,Not Significant
+Food & Coffee,Miami,Fraction of Q1 visitors,-0.303813499,0.019014868,0.038029736,2.02597415470675e-55,***,Significant
+Food & Coffee,Miami,Fraction of Q4 visitors,0.234076743,0.018341929,0.036683859,1.89893375597117e-36,***,Significant
+Food & Coffee,New York,Segregation,-0.180849197,0.015623155,0.03124631,1.76704597210391e-30,***,Significant
+Food & Coffee,New York,# POIs per CBG,0.003467272,0.014022608,0.028045215,0.804718036,,Not Significant
+Food & Coffee,New York,# Unique visitors,0.019252394,0.014615787,0.029231573,0.187840088,,Not Significant
+Food & Coffee,New York,Fraction of Q1 visitors,-0.450744599,0.016214109,0.032428217,5.60004623459545e-155,***,Significant
+Food & Coffee,New York,Fraction of Q4 visitors,0.08683732,0.016031266,0.032062532,6.44582681222557e-08,***,Significant
+Food & Coffee,Philadelphia,Segregation,-0.149293693,0.025919545,0.05183909,1.05629761646078e-08,***,Significant
+Food & Coffee,Philadelphia,# POIs per CBG,0.006810337,0.022810772,0.045621543,0.765326519,,Not Significant
+Food & Coffee,Philadelphia,# Unique visitors,0.005491819,0.024366743,0.048733485,0.821718805,,Not Significant
+Food & Coffee,Philadelphia,Fraction of Q1 visitors,-0.515596103,0.028411325,0.056822649,1.40981830146957e-65,***,Significant
+Food & Coffee,Philadelphia,Fraction of Q4 visitors,0.085283207,0.027337905,0.05467581,0.001852023,**,Significant
+Food & Coffee,San Francisco,Segregation,-0.207764215,0.022871666,0.045743333,4.20891016979042e-19,***,Significant
+Food & Coffee,San Francisco,# POIs per CBG,0.015544259,0.021689407,0.043378814,0.473714143,,Not Significant
+Food & Coffee,San Francisco,# Unique visitors,-0.111211218,0.022061538,0.044123076,5.3447519795486e-07,***,Significant
+Food & Coffee,San Francisco,Fraction of Q1 visitors,-0.52803079,0.025444957,0.050889913,5.66835266872867e-82,***,Significant
+Food & Coffee,San Francisco,Fraction of Q4 visitors,0.209248642,0.025884511,0.051769023,1.52056693790841e-15,***,Significant
+Food & Coffee,Seattle,Segregation,-0.149597749,0.029617514,0.059235028,5.32370950246272e-07,***,Significant
+Food & Coffee,Seattle,# POIs per CBG,-0.105223401,0.027437129,0.054874259,0.000134295,***,Significant
+Food & Coffee,Seattle,# Unique visitors,-0.006755798,0.028823763,0.057647527,0.81474113,,Not Significant
+Food & Coffee,Seattle,Fraction of Q1 visitors,-0.363357475,0.036862566,0.073725132,7.81208048393231e-22,***,Significant
+Food & Coffee,Seattle,Fraction of Q4 visitors,0.258695724,0.036017504,0.072035008,1.43662631246853e-12,***,Significant
+Food & Coffee,Washington,Segregation,-0.198644649,0.01812596,0.03625192,2.97119396233455e-27,***,Significant
+Food & Coffee,Washington,# POIs per CBG,0.004281361,0.016790868,0.033581735,0.798761058,,Not Significant
+Food & Coffee,Washington,# Unique visitors,-0.024400896,0.017387423,0.034774845,0.160648328,,Not Significant
+Food & Coffee,Washington,Fraction of Q1 visitors,-0.370156643,0.021375121,0.042750243,4.15842197728095e-63,***,Significant
+Food & Coffee,Washington,Fraction of Q4 visitors,0.255343787,0.020810967,0.041621934,1.57605786124549e-33,***,Significant
+Grocery,Boston,Segregation,-0.237153124,0.141844561,0.283689121,0.098174399,.,Not Significant
+Grocery,Boston,# POIs per CBG,-0.007011556,0.11374881,0.22749762,0.950991996,,Not Significant
+Grocery,Boston,# Unique visitors,-0.198902619,0.130014808,0.260029616,0.129725011,,Not Significant
+Grocery,Boston,Fraction of Q1 visitors,0.029011704,0.173411012,0.346822024,0.867526584,,Not Significant
+Grocery,Boston,Fraction of Q4 visitors,-0.02461027,0.146552686,0.293105372,0.867034362,,Not Significant
+Grocery,Chicago,Segregation,-0.23505239,0.054795745,0.109591489,2.2359776221258e-05,***,Significant
+Grocery,Chicago,# POIs per CBG,-0.037302805,0.048077783,0.096155566,0.438265615,,Not Significant
+Grocery,Chicago,# Unique visitors,-0.047404373,0.048101719,0.096203437,0.324959835,,Not Significant
+Grocery,Chicago,Fraction of Q1 visitors,-0.174292571,0.066070907,0.132141814,0.008658765,**,Significant
+Grocery,Chicago,Fraction of Q4 visitors,0.076894452,0.061011433,0.122022866,0.208269433,,Not Significant
+Grocery,Dallas,Segregation,-0.132513965,0.055551408,0.111102817,0.017575794,*,Significant
+Grocery,Dallas,# POIs per CBG,-0.060941616,0.045244438,0.090488876,0.178846307,,Not Significant
+Grocery,Dallas,# Unique visitors,-0.084727706,0.047476437,0.094952874,0.075163905,.,Not Significant
+Grocery,Dallas,Fraction of Q1 visitors,-0.220639591,0.060925813,0.121851626,0.000334998,***,Significant
+Grocery,Dallas,Fraction of Q4 visitors,0.347811394,0.056167192,0.112334384,1.61685599066328e-09,***,Significant
+Grocery,Detroit,Segregation,-0.140222772,0.109772354,0.219544708,0.203591944,,Not Significant
+Grocery,Detroit,# POIs per CBG,0.069724146,0.096739289,0.193478577,0.472278169,,Not Significant
+Grocery,Detroit,# Unique visitors,-0.002604247,0.094836512,0.189673024,0.978131926,,Not Significant
+Grocery,Detroit,Fraction of Q1 visitors,-0.012931419,0.118497813,0.236995625,0.913258418,,Not Significant
+Grocery,Detroit,Fraction of Q4 visitors,-0.092924319,0.106425702,0.212851403,0.384093776,,Not Significant
+Grocery,Los Angeles,Segregation,-0.235816965,0.041088608,0.082177216,1.39858976116354e-08,***,Significant
+Grocery,Los Angeles,# POIs per CBG,0.019265611,0.035042516,0.070085031,0.582641067,,Not Significant
+Grocery,Los Angeles,# Unique visitors,-0.080624133,0.036394939,0.072789878,0.02705291,*,Significant
+Grocery,Los Angeles,Fraction of Q1 visitors,-0.224969854,0.05189944,0.10379888,1.66604291828529e-05,***,Significant
+Grocery,Los Angeles,Fraction of Q4 visitors,-0.001159471,0.048153581,0.096307163,0.980796538,,Not Significant
+Grocery,Miami,Segregation,-0.276306198,0.050131021,0.100262042,5.92470141108403e-08,***,Significant
+Grocery,Miami,# POIs per CBG,0.020007755,0.043683928,0.087367857,0.647159759,,Not Significant
+Grocery,Miami,# Unique visitors,-0.063665043,0.044840956,0.089681912,0.156342733,,Not Significant
+Grocery,Miami,Fraction of Q1 visitors,-0.116533732,0.062406837,0.124813673,0.06249087,.,Not Significant
+Grocery,Miami,Fraction of Q4 visitors,0.106922143,0.057087189,0.114174379,0.061706228,.,Not Significant
+Grocery,New York,Segregation,-0.21160829,0.048063863,0.096127725,1.31268747274577e-05,***,Significant
+Grocery,New York,# POIs per CBG,0.017862538,0.04171942,0.083438841,0.668722859,,Not Significant
+Grocery,New York,# Unique visitors,-0.083403643,0.044212884,0.088425767,0.059828321,.,Not Significant
+Grocery,New York,Fraction of Q1 visitors,-0.164955639,0.051530106,0.103060213,0.00145731,**,Significant
+Grocery,New York,Fraction of Q4 visitors,0.198628078,0.050934913,0.101869826,0.000109712,***,Significant
+Grocery,Philadelphia,Segregation,-0.179105637,0.0900136,0.180027199,0.048090269,*,Significant
+Grocery,Philadelphia,# POIs per CBG,-0.155615194,0.074796173,0.149592346,0.038855165,*,Significant
+Grocery,Philadelphia,# Unique visitors,0.003015078,0.075597601,0.151195203,0.968229211,,Not Significant
+Grocery,Philadelphia,Fraction of Q1 visitors,-0.061709867,0.111498253,0.222996507,0.580616456,,Not Significant
+Grocery,Philadelphia,Fraction of Q4 visitors,0.006875893,0.096048889,0.192097779,0.943007578,,Not Significant
+Grocery,San Francisco,Segregation,-0.424879332,0.065645218,0.131290436,5.71760574467031e-10,***,Significant
+Grocery,San Francisco,# POIs per CBG,0.073836194,0.06166185,0.1233237,0.232363487,,Not Significant
+Grocery,San Francisco,# Unique visitors,-0.037038722,0.061413521,0.122827043,0.54703138,,Not Significant
+Grocery,San Francisco,Fraction of Q1 visitors,0.161561207,0.076490349,0.152980697,0.035745137,*,Significant
+Grocery,San Francisco,Fraction of Q4 visitors,0.1989989,0.073893474,0.147786949,0.007599093,**,Significant
+Grocery,Seattle,Segregation,-0.2020311,0.082958926,0.165917851,0.016118527,*,Significant
+Grocery,Seattle,# POIs per CBG,0.064989904,0.080359013,0.160718027,0.420015102,,Not Significant
+Grocery,Seattle,# Unique visitors,0.02275455,0.083480103,0.166960206,0.785576262,,Not Significant
+Grocery,Seattle,Fraction of Q1 visitors,0.311796544,0.111283336,0.222566671,0.005791112,**,Significant
+Grocery,Seattle,Fraction of Q4 visitors,0.053478643,0.112214378,0.224428755,0.634396841,,Not Significant
+Grocery,Washington,Segregation,-0.205696463,0.071480876,0.142961751,0.004307445,**,Significant
+Grocery,Washington,# POIs per CBG,-0.071719519,0.057249729,0.114499459,0.211316968,,Not Significant
+Grocery,Washington,# Unique visitors,-0.034694766,0.061422723,0.122845446,0.572615464,,Not Significant
+Grocery,Washington,Fraction of Q1 visitors,-0.081104492,0.088120865,0.176241731,0.358148295,,Not Significant
+Grocery,Washington,Fraction of Q4 visitors,0.074186171,0.076951324,0.153902648,0.335824336,,Not Significant
+Gym,Boston,Segregation,-0.373617511,0.124589134,0.249178269,0.003690089,**,Significant
+Gym,Boston,# POIs per CBG,0.111076282,0.109781907,0.219563814,0.314935178,,Not Significant
+Gym,Boston,# Unique visitors,-0.118034854,0.113942525,0.227885051,0.303614847,,Not Significant
+Gym,Boston,Fraction of Q1 visitors,-0.153627578,0.14388068,0.287761359,0.289107443,,Not Significant
+Gym,Boston,Fraction of Q4 visitors,-0.415906942,0.147337457,0.294674914,0.006111003,**,Significant
+Gym,Chicago,Segregation,-0.295834501,0.050630318,0.101260636,1.1481248406566e-08,***,Significant
+Gym,Chicago,# POIs per CBG,0.019035273,0.047055939,0.094111878,0.686067404,,Not Significant
+Gym,Chicago,# Unique visitors,-0.101580202,0.047934634,0.095869267,0.034762809,*,Significant
+Gym,Chicago,Fraction of Q1 visitors,-0.242667503,0.059335187,0.118670374,5.33072425935863e-05,***,Significant
+Gym,Chicago,Fraction of Q4 visitors,-0.459449844,0.059246827,0.118493653,9.17644627381041e-14,***,Significant
+Gym,Dallas,Segregation,-0.25845522,0.060079545,0.120159089,2.3988573888231e-05,***,Significant
+Gym,Dallas,# POIs per CBG,0.043956154,0.056206113,0.112412225,0.434895097,,Not Significant
+Gym,Dallas,# Unique visitors,-0.063389485,0.058323106,0.116646211,0.278101962,,Not Significant
+Gym,Dallas,Fraction of Q1 visitors,-0.119631525,0.069568735,0.13913747,0.086692268,.,Not Significant
+Gym,Dallas,Fraction of Q4 visitors,-0.393415101,0.070924138,0.141848275,7.14488639833168e-08,***,Significant
+Gym,Detroit,Segregation,-0.312681094,0.083719971,0.167439942,0.000303066,***,Significant
+Gym,Detroit,# POIs per CBG,-0.103074485,0.079734276,0.159468552,0.198890686,,Not Significant
+Gym,Detroit,# Unique visitors,-0.071965759,0.07928311,0.15856622,0.366073344,,Not Significant
+Gym,Detroit,Fraction of Q1 visitors,-0.370276174,0.099138072,0.198276144,0.000302949,***,Significant
+Gym,Detroit,Fraction of Q4 visitors,-0.633704487,0.099182732,0.198365465,4.43250930586397e-09,***,Significant
+Gym,Los Angeles,Segregation,-0.270923285,0.055090973,0.110181947,1.48117033143377e-06,***,Significant
+Gym,Los Angeles,# POIs per CBG,-0.077296453,0.050243759,0.100487518,0.125053247,,Not Significant
+Gym,Los Angeles,# Unique visitors,-0.040471859,0.052399848,0.104799697,0.440537729,,Not Significant
+Gym,Los Angeles,Fraction of Q1 visitors,-0.395843563,0.064612538,0.129225076,2.97830003166987e-09,***,Significant
+Gym,Los Angeles,Fraction of Q4 visitors,-0.460709833,0.063201599,0.126403197,3.07507996227968e-12,***,Significant
+Gym,Miami,Segregation,-0.221834576,0.062466484,0.124932968,0.000453036,***,Significant
+Gym,Miami,# POIs per CBG,-0.038941677,0.054646488,0.109292976,0.476708907,,Not Significant
+Gym,Miami,# Unique visitors,-0.055053996,0.059489217,0.118978435,0.355570185,,Not Significant
+Gym,Miami,Fraction of Q1 visitors,-0.396081109,0.065234648,0.130469296,4.3324933652197e-09,***,Significant
+Gym,Miami,Fraction of Q4 visitors,-0.388858408,0.068205406,0.136410811,3.1441508006572e-08,***,Significant
+Gym,New York,Segregation,-0.153697071,0.044624902,0.089249804,0.000623821,***,Significant
+Gym,New York,# POIs per CBG,0.074335172,0.041457168,0.082914337,0.073603529,.,Not Significant
+Gym,New York,# Unique visitors,0.018773759,0.042821497,0.085642995,0.661283146,,Not Significant
+Gym,New York,Fraction of Q1 visitors,-0.429549457,0.049325201,0.098650402,5.21122667017305e-17,***,Significant
+Gym,New York,Fraction of Q4 visitors,-0.500945124,0.047702541,0.095405082,2.51991272015369e-23,***,Significant
+Gym,Philadelphia,Segregation,-0.233451715,0.096473466,0.192946931,0.01724474,*,Significant
+Gym,Philadelphia,# POIs per CBG,0.002814556,0.088188795,0.176377591,0.974600327,,Not Significant
+Gym,Philadelphia,# Unique visitors,0.046014936,0.089718921,0.179437841,0.609113411,,Not Significant
+Gym,Philadelphia,Fraction of Q1 visitors,-0.343902978,0.124788516,0.249577033,0.006902505,**,Significant
+Gym,Philadelphia,Fraction of Q4 visitors,-0.427743742,0.116301509,0.232603017,0.000372768,***,Significant
+Gym,San Francisco,Segregation,-0.235950924,0.101310593,0.202621187,0.021956979,*,Significant
+Gym,San Francisco,# POIs per CBG,-0.086889007,0.085933312,0.171866624,0.314500055,,Not Significant
+Gym,San Francisco,# Unique visitors,0.057821414,0.088872422,0.177744845,0.51685148,,Not Significant
+Gym,San Francisco,Fraction of Q1 visitors,-0.343014585,0.11339193,0.22678386,0.003189934,**,Significant
+Gym,San Francisco,Fraction of Q4 visitors,-0.517238233,0.117601738,0.235203477,2.82374664253375e-05,***,Significant
+Gym,Seattle,Segregation,-0.345031721,0.130758201,0.261516401,0.010548141,*,Significant
+Gym,Seattle,# POIs per CBG,0.018279247,0.118975774,0.237951548,0.87840201,,Not Significant
+Gym,Seattle,# Unique visitors,-0.011095752,0.1295761,0.2591522,0.932040073,,Not Significant
+Gym,Seattle,Fraction of Q1 visitors,-0.216061075,0.135611685,0.271223369,0.116276875,,Not Significant
+Gym,Seattle,Fraction of Q4 visitors,-0.360156073,0.138455684,0.276911369,0.011640204,*,Significant
+Gym,Washington,Segregation,-0.427842025,0.079272233,0.158544466,2.76946772532528e-07,***,Significant
+Gym,Washington,# POIs per CBG,0.022436304,0.074177214,0.148354428,0.762737195,,Not Significant
+Gym,Washington,# Unique visitors,-0.00467755,0.079030653,0.158061307,0.952886755,,Not Significant
+Gym,Washington,Fraction of Q1 visitors,-0.140041927,0.089456747,0.178913493,0.119698374,,Not Significant
+Gym,Washington,Fraction of Q4 visitors,-0.307886712,0.089624258,0.179248516,0.000776352,***,Significant
