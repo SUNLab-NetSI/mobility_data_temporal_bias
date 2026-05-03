@@ -5,11 +5,11 @@ library(tidyverse)
 
 
 # read in csv
-ex_minutes_before_and_after_reweighting <- read.csv("fig3.csv")
+orig_and_reweighted_time_spent_2_example_food_POIs_Boston_fig3 <- read.csv("fig3.csv")
 
 
 # plot Figure 3
-p_fig3 <- ggplot(data = ex_minutes_before_and_after_reweighting, aes(x = bar, y = fct_rev(inc_quart_label), color = inc_quart_label, fill = inc_quart_label)) +
+p_fig3 <- ggplot(data = orig_and_reweighted_time_spent_2_example_food_POIs_Boston_fig3, aes(x = bar, y = fct_rev(inc_quart_label), color = inc_quart_label, fill = inc_quart_label)) +
   geom_bar(stat = "identity") + 
   facet_wrap(~bar_label, scales = "free_x") +
   theme_classic(base_size = 22) +
@@ -24,11 +24,11 @@ p_fig3 <- ggplot(data = ex_minutes_before_and_after_reweighting, aes(x = bar, y 
   scale_color_manual("", values = c("Q1 (Low)" = "#b5e48c", "Q2" = "#76c893", "Q3" = "#34a0a4", "Q4 (High)" = "#1e6091")) 
 
 
-# this provides main parts of figures
-# additional labels, arrows, and final formatting were completed in PowerPoint
+
 # print Figure 3
 p_fig3
 
-
 # save Figure 3 at this size
 ggsave("p_fig3.png", p_fig3, width = 1, height = 5, units = "in")
+
+
