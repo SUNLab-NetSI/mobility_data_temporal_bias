@@ -107,7 +107,7 @@ p_md_fc_fig2 <- ggplot() +
         axis.title.y = element_blank()) +
   labs(x = "", y = "", colour = 'Income', title = "Mobility Data", subtitle = "(Boston)") +
   scale_color_manual("", values = c("Q1" = "#b5e48c", "Q2" = "#76c893", "Q3" = "#34a0a4", "Q4" = "#1e6091")) +
-  scale_y_continuous(breaks = c(0,1.5,3))
+  scale_y_continuous(limits = c(0,4.24), breaks = c(0, 2, 4))
 
 
 ## MD GROCERY ##
@@ -127,7 +127,7 @@ p_md_grocery_fig2 <- ggplot() +
         axis.title.y = element_blank()) +
   labs(x = "", y = "", colour = 'Income') +
   scale_color_manual("", values = c("Q1" = "#b5e48c", "Q2" = "#76c893", "Q3" = "#34a0a4", "Q4" = "#1e6091")) +
-  scale_y_continuous(breaks = c(0,0.15,0.3))
+  scale_y_continuous(limits = c(0,1.14), breaks = c(0.0, 0.5, 1.0))
 
 
 ## MD GYM ##
@@ -147,7 +147,7 @@ p_md_gym_fig2 <- ggplot() +
         axis.title.y = element_blank()) +
   labs(x = "Hour of Day", y = "", colour = 'Income') +
   scale_color_manual("", values = c("Q1" = "#b5e48c", "Q2" = "#76c893", "Q3" = "#34a0a4", "Q4" = "#1e6091")) +
-  scale_y_continuous(breaks = c(0,0.15,0.3))
+  scale_y_continuous(limits = c(0,1.34), breaks = c(0,0.5,1.0))
 
 
 # read in RATIO csv
