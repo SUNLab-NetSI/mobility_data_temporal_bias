@@ -212,7 +212,7 @@ atusact_2017_11cbsas_24h_respondentsQ3_denominator <- sum(atusact_2017_11cbsas_2
 atusact_2017_11cbsas_24h_respondentsQ4_denominator <- sum(atusact_2017_11cbsas_24h_respondentsQ4$TUFINLWGT * 60)  
   
 
-# calculating the numerator of the ratio (R, Eq. 2 in the Methods) for each POI category, hour, and income quartile
+# calculate the numerator of the ratio (R, Eq. 2 in the Methods) for each POI category, hour, and income quartile
 ### FOOD ESTABLISHMENTS ###
 atusact_2017_11cbsas_24h_fc <- atusact_2017_11cbsas_24h %>%
   filter(TEWHERE == 4 | TEWHERE == 7 & TRCODE == 110101 | TEWHERE == 7 & TRCODE == 070103 | TEWHERE == 11 & TRCODE == 110101 | TEWHERE == 11 & TRCODE == 070103) %>%
