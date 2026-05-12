@@ -1,6 +1,6 @@
 # mobility_data_temporal_bias
 
-Data and code supporting the paper: "Correcting temporal bias in mobility data using time-use surveys" by S. Sanchez, et. al.
+Data and code supporting the paper: "Correcting temporal bias in mobility data using time-use surveys" by S. A. Sanchez, et. al.
 
 ## Overview
 
